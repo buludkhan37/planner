@@ -1,2 +1,3 @@
 # planner
-press "Tab" to switch background
+# settings
+# press "Tab" to switch background
